@@ -1,0 +1,43 @@
+hr{
+    border-width: 5px;
+     border-color: rgb(255, 145, 67);
+}
+h2{
+    color: rgb(233, 153, 48);
+    text-align: center;
+}
+h1{
+    color: rgb(5, 104, 5);
+    text-align: center;
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+}
+.servicios{
+    text-align: center;
+    color: rgb(255, 255, 255);
+   background-color: rgba(68, 192, 51, 0.925);
+   padding: 10px;
+   font-size: 15px
+}
+ul li{
+    display: inline;
+    
+}
+.cuadro2{
+    text-align: center;
+    background-color: chocolate;    
+
+}
+.cuadro3 {
+    background-color: rgb(4, 116, 46);
+    border-width: 100px;
+}
+.cuadro3 img{
+    width: 200px;
+}
+main div{
+    display: inline-block;
+    width: 400px;
+}
